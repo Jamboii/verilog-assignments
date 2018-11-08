@@ -2,11 +2,11 @@
 
 ## Waveforms
 
-![Toll Collecter Waveform](/Pics/Waveform.png)
+![Toll Collecter Waveform](Combinational%20Logic%20Design/Pics/Waveform.png)
 
 ## Schematic
 
-![Toll Collector Schematic](/Pics/Schematic.png)
+![Toll Collector Schematic](Combinational%20Logic%20Design/Pics/Schematic.png)
 
 ## License
 
