@@ -1,12 +1,12 @@
-# Serial Sequence Controller
+# Combinational Logic Design
 
 ## Waveforms
 
-![Toll Collecter Waveform](/Pics/Waveform.png)
+![Toll Collecter Waveform](verilog-assignments/Combinational%20Logic%20Design/Pics/Waveform.png)
 
 ## Schematic
 
-![Toll Collector Schematic](/Pics/Schematic.png)
+![Toll Collector Schematic](verilog-assignments/Combinational%20Logic%20Design/Pics/Schematic.png)
 
 ## License
 
