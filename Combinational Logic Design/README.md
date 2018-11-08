@@ -2,11 +2,11 @@
 
 ## Waveforms
 
-![Toll Collecter Waveform](verilog-assignments/Combinational%20Logic%20Design/Pics/Waveform.png)
+![Toll Collecter Waveform](/Pics/Waveform.png)
 
 ## Schematic
 
-![Toll Collector Schematic](verilog-assignments/Combinational%20Logic%20Design/Pics/Schematic.png)
+![Toll Collector Schematic](/Pics/Schematic.png)
 
 ## License
 
